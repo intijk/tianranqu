@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@vuepress/theme-blog": "^1.4.0",
+    "vuepress": "^1.2.0"
+  },
+  "name": "tianranqu",
+  "version": "1.0.0",
+  "description": "Personal site for me",
+  "main": "index.js",
+  "author": "intijk",
+  "license": "MIT"
+}
