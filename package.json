@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "@vuepress/theme-blog": "^1.4.0",
+    "markdown-it-katex": "^2.0.3",
     "vuepress": "^1.2.0"
   },
   "name": "tianranqu",
