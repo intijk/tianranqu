@@ -1,7 +1,10 @@
 {
   "devDependencies": {
     "@vuepress/theme-blog": "^1.4.0",
+    "d3": "^5.15.0",
+    "d3-node": "^2.2.1",
     "markdown-it-katex": "^2.0.3",
+    "markvis": "^0.0.12",
     "vuepress": "^1.2.0"
   },
   "name": "tianranqu",

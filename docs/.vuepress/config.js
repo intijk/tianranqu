@@ -1,4 +1,7 @@
 // .vuepress/config.js
+const d3=require('d3')
+const d3node=require('d3-node')
+
 module.exports = {
 	title: '天然趣博客',
 	description: '左趋趋的实验坊',
@@ -25,6 +28,7 @@ module.exports = {
 				html: true
 			})
 			md.use(require('markdown-it-katex'))
+			md.use(require('markvis'), {d3node})
 		}
 	},
 	head: [
