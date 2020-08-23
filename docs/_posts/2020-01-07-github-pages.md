@@ -1,4 +1,5 @@
 ---
+title: 免费的便宜白不占，Github Pages设置
 date: 2020-01-7
 tag: 
   - github pages
@@ -6,7 +7,6 @@ author: 左趋趋
 location: San Jose
 ---
 
-# 免费的便宜白不占，Github Pages设置
 
 ![拿来主义](./nalaizhuyi.jpg)
 

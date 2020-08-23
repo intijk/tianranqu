@@ -1,4 +1,5 @@
 ---
+title: 你是哪个宝可梦？进程运行时的ID研究
 date: 2020-01-3
 tag: 
   - APUE
@@ -7,7 +8,6 @@ author: 左趋趋
 location: San Jose
 ---
 
-# 你是哪个宝可梦？进程运行时的ID研究
 
 ![pokemon](./pokemon.jpeg)
 

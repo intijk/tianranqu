@@ -1,11 +1,11 @@
 ---
+title: Dota2 的护甲是多少？ 
 date: 2020-01-27
 tag: 
   - dota
 author: 左趋趋
 location: 掐拿
 ---
-# Dota2 的护甲是多少？ 
 
 ![护甲之力](./armor.png)
 
