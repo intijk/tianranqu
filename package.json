@@ -11,5 +11,8 @@
   "description": "Personal site for me",
   "main": "index.js",
   "author": "intijk",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@vuepress/theme-blog": "^2.3.1"
+  }
 }

@@ -5,6 +5,7 @@ const d3node=require('d3-node')
 module.exports = {
 	title: '天然趣博客',
 	description: '左趋趋的实验坊',
+	//theme: '@vuepress/blog',	
 	themeConfig: {
 		nav: [
 			{
